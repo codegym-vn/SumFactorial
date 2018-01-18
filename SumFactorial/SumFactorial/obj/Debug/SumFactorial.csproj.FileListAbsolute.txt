@@ -1,0 +1,7 @@
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\SumFactorial\SumFactorial\obj\Debug\SumFactorial.csprojResolveAssemblyReference.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\SumFactorial\SumFactorial\obj\Debug\SumFactorial.csproj.CoreCompileInputs.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\SumFactorial\SumFactorial\bin\Debug\SumFactorial.exe.config
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\SumFactorial\SumFactorial\bin\Debug\SumFactorial.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\SumFactorial\SumFactorial\bin\Debug\SumFactorial.pdb
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\SumFactorial\SumFactorial\obj\Debug\SumFactorial.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\SumFactorial\SumFactorial\obj\Debug\SumFactorial.pdb
