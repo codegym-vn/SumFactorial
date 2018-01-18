@@ -8,9 +8,12 @@ Luyện tập sử dụng hàm đệ quy.
 **Mô tả**
 
 Trong phần này, chúng ta sẽ phát triển một ứng dụng để tính giá trị giai thừa.
+
 Công thức tính giai thừa là như sau: 
-n! = n * (n - 1)
-0! = 1
+
+**n! = n * (n - 1)**
+
+**0! = 1**
 
 **Hướng dẫn**
  - Đầu tiên chúng ta xác định yêu cầu bài toán:
