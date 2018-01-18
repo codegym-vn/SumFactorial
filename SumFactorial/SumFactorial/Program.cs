@@ -10,8 +10,14 @@ namespace SumFactorial
     {
         static void Main(string[] args)
         {
-            var n = 5;
-            Console.WriteLine(SumFactorial(ref n));
+            Console.WriteLine("Please input number: ");
+            var number = Console.ReadLine();
+            var isNumber = int.TryParse(number, out int n);
+            if (isNumber)
+                Console.WriteLine(SumFactorial(ref n));
+            else
+                Console.WriteLine("Invalid number");
+
             Console.ReadLine();
         }
 
