@@ -33,4 +33,7 @@ Công thức tính giai thừa là như sau:
       - Gọi hàm tính giai thừa với tham số là n
       - Trả về kết quả cuối cùng
    - Không hợp lệ: Thông báo
+   
+   <br />
+   Mã nguồn SumFactorial được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 
